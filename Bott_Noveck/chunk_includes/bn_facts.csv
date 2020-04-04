@@ -1,0 +1,37 @@
+﻿SentNumber,Quantifier,Matrix,WhichCategory,Subject,Predicate,Group,SentType,Verb,Embedded
+1,some,,Matching,Token,Category,,T1,none,0
+2,some,Zoologists knows that,Matching,Token,Category,,T1,know,1
+3,some,Zoologists says that,Matching,Token,Category,,T1,say,1
+4,some,,Mismatching,Token,Category,,T3,none,0
+5,some,Zoologists knows that,Mismatching,Token,Category,,T3,know,1
+6,some,Zoologists says that,Mismatching,Token,Category,,T3,say,1
+7,some,,Matching,Category,Token,,T2,none,0
+8,some,Zoologists knows that,Matching,Category,Token,,T2,know,1
+9,some,Zoologists says that,Matching,Category,Token,,T2,say,1
+10,all,,Matching,Token,Category,,T4,none,0
+11,all,Zoologists knows that,Matching,Token,Category,,T4,know,1
+12,all,Zoologists says that,Matching,Token,Category,,T4,say,1
+13,all,,Mismatching,Token,Category,,T6,none,0
+14,all,Zoologists knows that,Mismatching,Token,Category,,T6,know,1
+15,all,Zoologists says that,Mismatching,Token,Category,,T6,say,1
+16,all,,Matching,Category,Token,,T5,none,0
+17,all,Zoologists knows that,Matching,Category,Token,,T5,know,1
+18,all,Zoologists says that,Matching,Category,Token,,T5,say,1
+19,some,,Matching,Token,Category,,T1,none,0
+20,some,Zoologists knows that,Matching,Token,Category,,T1,know,1
+21,some,Zoologists says that,Matching,Token,Category,,T1,say,1
+22,some,,Mismatching,Token,Category,,T3,none,0
+23,some,Zoologists knows that,Mismatching,Token,Category,,T3,know,1
+24,some,Zoologists says that,Mismatching,Token,Category,,T3,say,1
+25,some,,Matching,Category,Token,,T2,none,0
+26,some,Zoologists knows that,Matching,Category,Token,,T2,know,1
+27,some,Zoologists says that,Matching,Category,Token,,T2,say,1
+28,all,,Matching,Token,Category,,T4,none,0
+29,all,Zoologists knows that,Matching,Token,Category,,T4,know,1
+30,all,Zoologists says that,Matching,Token,Category,,T4,say,1
+31,all,,Mismatching,Token,Category,,T6,none,0
+32,all,Zoologists knows that,Mismatching,Token,Category,,T6,know,1
+33,all,Zoologists says that,Mismatching,Token,Category,,T6,say,1
+34,all,,Matching,Category,Token,,T5,none,0
+35,all,Zoologists knows that,Matching,Category,Token,,T5,know,1
+36,all,Zoologists says that,Matching,Category,Token,,T5,say,1
