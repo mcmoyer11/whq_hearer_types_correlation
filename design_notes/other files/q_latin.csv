@@ -1,0 +1,33 @@
+﻿ImageName,MO,MS,MA,MF,ModQuest,NoModQuest,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P
+red1.png,A,A and B,"A, B, D, and F",C,Who can play a red card?,Who has a red card to play?,1,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2
+black1.png,D,B and D,"A, B, D, and F",C,Who can play a black card?,Who has a black card to play?,2,1,16,15,14,13,12,11,10,9,8,7,6,5,4,3
+spade1.png,C,B and C,"B, C, E, and F",A,Who can play a spade?,Who has a spade to play?,3,2,1,16,15,14,13,12,11,10,9,8,7,6,5,4
+club1.png,A,A and C,"A, C, D, and F",B,Who can play a club?,Who has a club to play?,4,3,2,1,16,15,14,13,12,11,10,9,8,7,6,5
+diamond1.png,E,D and E,"A, B, D, and E",C,Who can play a diamond?,Who has a diamond to play?,5,4,3,2,1,16,15,14,13,12,11,10,9,8,7,6
+heart1.png,F,C and F,"A, C, D, and F",B,Who can play a heart?,Who has a hear to play?,6,5,4,3,2,1,16,15,14,13,12,11,10,9,8,7
+jack1.png,A,A and B,"A, B, D, and F",E,Who can play a jack?,Who has a jack to play?,7,6,5,4,3,2,1,16,15,14,13,12,11,10,9,8
+queen1.png,B,B and C,"A, B, C, and E",D,Who can play a queen?,Who has a queen to play?,8,7,6,5,4,3,2,1,16,15,14,13,12,11,10,9
+king1.png,D,D and E,"A, B, D, and E",C,Who can play a king?,Who has a king to play?,9,8,7,6,5,4,3,2,1,16,15,14,13,12,11,10
+face1.png,C,C and D,"A, C, D, and E",F,Who can play a face card?,Who hasa face card to play?,10,9,8,7,6,5,4,3,2,1,16,15,14,13,12,11
+number1.png,F,C and F,"C, D, E, and F",A,Who can play a number card?,Who has a number card to play?,11,10,9,8,7,6,5,4,3,2,1,16,15,14,13,12
+ace1.png,B,B and C,"B, C, E, and F",D,Who can play an ace?,Who has an ace to play?,12,11,10,9,8,7,6,5,4,3,2,1,16,15,14,13
+ten1.png,C,C and D,"B, C, D, and F",E,Who can play a ten?,Who has a ten to play?,13,12,11,10,9,8,7,6,5,4,3,2,1,16,15,14
+eight1.png,D,B and D,"B, C, D, and E",A,Who can play a eight?,Who has an eight to play?,14,13,12,11,10,9,8,7,6,5,4,3,2,1,16,15
+six1.png,A,A and B,"A, B, C, and F",D,Who can play a six?,Who has a six to play?,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,16
+four1.png,F,A and F,"A, B, D, and F",E,Who can play a four?,Who has a four to play?,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1
+red2.png,F,D and F,"B, C, D, and F",A,Who can play a red card?,Who has a red card to play?,1,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2
+black2.png,B,B and C,"B, C, D, and F",E,Who can play a black card?,Who has a black card to play?,2,1,16,15,14,13,12,11,10,9,8,7,6,5,4,3
+spade2.png,E,B and E,"A, B, C, and E",D,Who can play a spade?,Who has a spade to play?,3,2,1,16,15,14,13,12,11,10,9,8,7,6,5,4
+club2.png,C,B and C,"B, C, D, and E",F,Who can play a club?,Who has a club to play?,4,3,2,1,16,15,14,13,12,11,10,9,8,7,6,5
+diamond2.png,A,A and B,"A, B, E, and F",C,Who can play a diamond?,Who has a diamond to play?,5,4,3,2,1,16,15,14,13,12,11,10,9,8,7,6
+heart2.png,B,B and E,"A, B, C, and E",D,Who can play a heart?,Who has a hear to play?,6,5,4,3,2,1,16,15,14,13,12,11,10,9,8,7
+jack2.png,A,A and C,"A, C, E, and F",B,Who can play a jack?,Who has a jack to play?,7,6,5,4,3,2,1,16,15,14,13,12,11,10,9,8
+queen2.png,F,E and F,"B, C, E, and F",A,Who can play a queen?,Who has a queen to play?,8,7,6,5,4,3,2,1,16,15,14,13,12,11,10,9
+king2.png,C,C and D,"A, C, D, and F",E,Who can play a king?,Who has a king to play?,9,8,7,6,5,4,3,2,1,16,15,14,13,12,11,10
+face2.png,B,B and C,"B, C, D, and F",A,Who can play a face card?,Who hasa face card to play?,10,9,8,7,6,5,4,3,2,1,16,15,14,13,12,11
+number2.png,A,A and B,"A, B, D, and F",C,Who can play a number card?,Who has a number card to play?,11,10,9,8,7,6,5,4,3,2,1,16,15,14,13,12
+ace2.png,E,C and E,"A, B, C, and E",D,Who can play an ace?,Who has an ace to play?,12,11,10,9,8,7,6,5,4,3,2,1,16,15,14,13
+ten2.png,F,A and F,"A, B, E, and F",C,Who can play a ten?,Who has a ten to play?,13,12,11,10,9,8,7,6,5,4,3,2,1,16,15,14
+eight2.png,B,A and B,"A, B, D, and E",F,Who can play a eight?,Who has an eight to play?,14,13,12,11,10,9,8,7,6,5,4,3,2,1,16,15
+six2.png,D,D and E,"B, D, E, and F",A,Who can play a six?,Who has a six to play?,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,16
+four2.png,E,B and E,"B, D, E, and F",C,Who can play a four?,Who has a four to play?,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1

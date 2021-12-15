@@ -1,0 +1,5 @@
+Type,Sentence,Feedback
+train_T,The earth is a planet in the Milky Way,"Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree."
+train_F,Russia is a continent,"Since this statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree."
+train_think_T,Athletes think that soccer is a sport,"Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree."
+train_think_F,Librarians think that books are boring,"Since this statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree."

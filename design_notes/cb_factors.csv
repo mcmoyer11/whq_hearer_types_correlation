@@ -1,0 +1,10 @@
+﻿sent_type,negation,verb,comp_truth,subject,factor_combo,sentence
+T1,1,know,f,expert,1,Geologists don't know that Spain is in Africa
+T2,0,know,f,expert,2,Geologists know that Spain is in Africa
+T3,1,know,t,expert,3,Geologists don't know that Spain is in Europe
+T4,0,know,t,expert,4,Geologsts know that Spain is in Europe
+T5,1,know,f,novice,5,Babies don't know that Spain is in Africa
+T7,1,know,t,novice,6,Babies don't know that Spain is in Europe
+T1,1,say,f,expert,7,Geologists don't say that Spain is in Africa
+T6,0,say,f,novice,8,Babies say that Spain is in Africa
+T8,0,say,t,novice,9,Babies say that Spain is in Europe

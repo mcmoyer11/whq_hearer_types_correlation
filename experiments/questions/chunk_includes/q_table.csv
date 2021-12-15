@@ -1,0 +1,513 @@
+Study,QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAnswer,MFAnswer,ModQuestion,NoModQuestion,Group
+Q,1,Mod,MO,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,A
+Q,1,Mod,MO,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,A
+Q,1,Mod,MO,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,B
+Q,1,Mod,MO,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,B
+Q,1,Mod,MO,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,C
+Q,1,Mod,MO,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,C
+Q,1,Mod,MO,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,D
+Q,1,Mod,MO,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,D
+Q,1,Mod,MO,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,E
+Q,1,Mod,MO,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,E
+Q,1,Mod,MO,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,F
+Q,1,Mod,MO,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,F
+Q,1,Mod,MO,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,G
+Q,1,Mod,MO,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,G
+Q,1,Mod,MO,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,H
+Q,1,Mod,MO,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,H
+Q,1,Mod,MO,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,I
+Q,1,Mod,MO,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,I
+Q,1,Mod,MO,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,J
+Q,1,Mod,MO,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,J
+Q,1,Mod,MO,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,K
+Q,1,Mod,MO,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,K
+Q,1,Mod,MO,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,L
+Q,1,Mod,MO,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,L
+Q,1,Mod,MO,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,M
+Q,1,Mod,MO,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,M
+Q,1,Mod,MO,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,N
+Q,1,Mod,MO,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,N
+Q,1,Mod,MO,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,O
+Q,1,Mod,MO,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,O
+Q,1,Mod,MO,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,P
+Q,1,Mod,MO,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,P
+Q,2,Mod,MS,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,A
+Q,2,Mod,MS,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,A
+Q,2,Mod,MS,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,B
+Q,2,Mod,MS,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,B
+Q,2,Mod,MS,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,C
+Q,2,Mod,MS,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,C
+Q,2,Mod,MS,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,D
+Q,2,Mod,MS,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,D
+Q,2,Mod,MS,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,E
+Q,2,Mod,MS,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,E
+Q,2,Mod,MS,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,F
+Q,2,Mod,MS,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,F
+Q,2,Mod,MS,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,G
+Q,2,Mod,MS,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,G
+Q,2,Mod,MS,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,H
+Q,2,Mod,MS,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,H
+Q,2,Mod,MS,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,I
+Q,2,Mod,MS,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,I
+Q,2,Mod,MS,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,J
+Q,2,Mod,MS,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,J
+Q,2,Mod,MS,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,K
+Q,2,Mod,MS,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,K
+Q,2,Mod,MS,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,L
+Q,2,Mod,MS,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,L
+Q,2,Mod,MS,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,M
+Q,2,Mod,MS,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,M
+Q,2,Mod,MS,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,N
+Q,2,Mod,MS,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,N
+Q,2,Mod,MS,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,O
+Q,2,Mod,MS,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,O
+Q,2,Mod,MS,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,P
+Q,2,Mod,MS,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,P
+Q,3,Mod,MA,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,A
+Q,3,Mod,MA,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,A
+Q,3,Mod,MA,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,B
+Q,3,Mod,MA,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,B
+Q,3,Mod,MA,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,C
+Q,3,Mod,MA,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,C
+Q,3,Mod,MA,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,D
+Q,3,Mod,MA,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,D
+Q,3,Mod,MA,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,E
+Q,3,Mod,MA,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,E
+Q,3,Mod,MA,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,F
+Q,3,Mod,MA,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,F
+Q,3,Mod,MA,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,G
+Q,3,Mod,MA,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,G
+Q,3,Mod,MA,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,H
+Q,3,Mod,MA,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,H
+Q,3,Mod,MA,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,I
+Q,3,Mod,MA,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,I
+Q,3,Mod,MA,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,J
+Q,3,Mod,MA,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,J
+Q,3,Mod,MA,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,K
+Q,3,Mod,MA,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,K
+Q,3,Mod,MA,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,L
+Q,3,Mod,MA,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,L
+Q,3,Mod,MA,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,M
+Q,3,Mod,MA,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,M
+Q,3,Mod,MA,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,N
+Q,3,Mod,MA,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,N
+Q,3,Mod,MA,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,O
+Q,3,Mod,MA,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,O
+Q,3,Mod,MA,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,P
+Q,3,Mod,MA,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,P
+Q,4,Mod,MF,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,A
+Q,4,Mod,MF,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,A
+Q,4,Mod,MF,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,B
+Q,4,Mod,MF,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,B
+Q,4,Mod,MF,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,C
+Q,4,Mod,MF,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,C
+Q,4,Mod,MF,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,D
+Q,4,Mod,MF,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,D
+Q,4,Mod,MF,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,E
+Q,4,Mod,MF,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,E
+Q,4,Mod,MF,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,F
+Q,4,Mod,MF,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,F
+Q,4,Mod,MF,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,G
+Q,4,Mod,MF,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,G
+Q,4,Mod,MF,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,H
+Q,4,Mod,MF,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,H
+Q,4,Mod,MF,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,I
+Q,4,Mod,MF,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,I
+Q,4,Mod,MF,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,J
+Q,4,Mod,MF,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,J
+Q,4,Mod,MF,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,K
+Q,4,Mod,MF,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,K
+Q,4,Mod,MF,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,L
+Q,4,Mod,MF,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,L
+Q,4,Mod,MF,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,M
+Q,4,Mod,MF,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,M
+Q,4,Mod,MF,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,N
+Q,4,Mod,MF,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,N
+Q,4,Mod,MF,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,O
+Q,4,Mod,MF,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,O
+Q,4,Mod,MF,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,P
+Q,4,Mod,MF,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,P
+Q,5,Mod,MO,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,A
+Q,5,Mod,MO,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,A
+Q,5,Mod,MO,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,B
+Q,5,Mod,MO,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,B
+Q,5,Mod,MO,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,C
+Q,5,Mod,MO,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,C
+Q,5,Mod,MO,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,D
+Q,5,Mod,MO,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,D
+Q,5,Mod,MO,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,E
+Q,5,Mod,MO,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,E
+Q,5,Mod,MO,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,F
+Q,5,Mod,MO,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,F
+Q,5,Mod,MO,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,G
+Q,5,Mod,MO,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,G
+Q,5,Mod,MO,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,H
+Q,5,Mod,MO,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,H
+Q,5,Mod,MO,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,I
+Q,5,Mod,MO,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,I
+Q,5,Mod,MO,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,J
+Q,5,Mod,MO,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,J
+Q,5,Mod,MO,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,K
+Q,5,Mod,MO,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,K
+Q,5,Mod,MO,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,L
+Q,5,Mod,MO,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,L
+Q,5,Mod,MO,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,M
+Q,5,Mod,MO,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,M
+Q,5,Mod,MO,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,N
+Q,5,Mod,MO,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,N
+Q,5,Mod,MO,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,O
+Q,5,Mod,MO,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,O
+Q,5,Mod,MO,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,P
+Q,5,Mod,MO,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,P
+Q,6,Mod,MS,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,A
+Q,6,Mod,MS,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,A
+Q,6,Mod,MS,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,B
+Q,6,Mod,MS,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,B
+Q,6,Mod,MS,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,C
+Q,6,Mod,MS,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,C
+Q,6,Mod,MS,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,D
+Q,6,Mod,MS,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,D
+Q,6,Mod,MS,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,E
+Q,6,Mod,MS,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,E
+Q,6,Mod,MS,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,F
+Q,6,Mod,MS,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,F
+Q,6,Mod,MS,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,G
+Q,6,Mod,MS,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,G
+Q,6,Mod,MS,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,H
+Q,6,Mod,MS,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,H
+Q,6,Mod,MS,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,I
+Q,6,Mod,MS,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,I
+Q,6,Mod,MS,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,J
+Q,6,Mod,MS,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,J
+Q,6,Mod,MS,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,K
+Q,6,Mod,MS,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,K
+Q,6,Mod,MS,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,L
+Q,6,Mod,MS,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,L
+Q,6,Mod,MS,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,M
+Q,6,Mod,MS,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,M
+Q,6,Mod,MS,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,N
+Q,6,Mod,MS,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,N
+Q,6,Mod,MS,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,O
+Q,6,Mod,MS,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,O
+Q,6,Mod,MS,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,P
+Q,6,Mod,MS,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,P
+Q,7,Mod,MA,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,A
+Q,7,Mod,MA,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,A
+Q,7,Mod,MA,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,B
+Q,7,Mod,MA,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,B
+Q,7,Mod,MA,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,C
+Q,7,Mod,MA,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,C
+Q,7,Mod,MA,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,D
+Q,7,Mod,MA,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,D
+Q,7,Mod,MA,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,E
+Q,7,Mod,MA,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,E
+Q,7,Mod,MA,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,F
+Q,7,Mod,MA,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,F
+Q,7,Mod,MA,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,G
+Q,7,Mod,MA,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,G
+Q,7,Mod,MA,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,H
+Q,7,Mod,MA,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,H
+Q,7,Mod,MA,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,I
+Q,7,Mod,MA,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,I
+Q,7,Mod,MA,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,J
+Q,7,Mod,MA,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,J
+Q,7,Mod,MA,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,K
+Q,7,Mod,MA,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,K
+Q,7,Mod,MA,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,L
+Q,7,Mod,MA,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,L
+Q,7,Mod,MA,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,M
+Q,7,Mod,MA,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,M
+Q,7,Mod,MA,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,N
+Q,7,Mod,MA,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,N
+Q,7,Mod,MA,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,O
+Q,7,Mod,MA,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,O
+Q,7,Mod,MA,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,P
+Q,7,Mod,MA,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,P
+Q,8,Mod,MF,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,A
+Q,8,Mod,MF,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,A
+Q,8,Mod,MF,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,B
+Q,8,Mod,MF,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,B
+Q,8,Mod,MF,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,C
+Q,8,Mod,MF,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,C
+Q,8,Mod,MF,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,D
+Q,8,Mod,MF,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,D
+Q,8,Mod,MF,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,E
+Q,8,Mod,MF,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,E
+Q,8,Mod,MF,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,F
+Q,8,Mod,MF,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,F
+Q,8,Mod,MF,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,G
+Q,8,Mod,MF,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,G
+Q,8,Mod,MF,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,H
+Q,8,Mod,MF,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,H
+Q,8,Mod,MF,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,I
+Q,8,Mod,MF,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,I
+Q,8,Mod,MF,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,J
+Q,8,Mod,MF,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,J
+Q,8,Mod,MF,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,K
+Q,8,Mod,MF,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,K
+Q,8,Mod,MF,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,L
+Q,8,Mod,MF,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,L
+Q,8,Mod,MF,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,M
+Q,8,Mod,MF,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,M
+Q,8,Mod,MF,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,N
+Q,8,Mod,MF,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,N
+Q,8,Mod,MF,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,O
+Q,8,Mod,MF,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,O
+Q,8,Mod,MF,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,P
+Q,8,Mod,MF,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,P
+Q,9,NoMod,MO,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,A
+Q,9,NoMod,MO,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,A
+Q,9,NoMod,MO,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,B
+Q,9,NoMod,MO,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,B
+Q,9,NoMod,MO,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,C
+Q,9,NoMod,MO,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,C
+Q,9,NoMod,MO,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,D
+Q,9,NoMod,MO,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,D
+Q,9,NoMod,MO,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,E
+Q,9,NoMod,MO,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,E
+Q,9,NoMod,MO,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,F
+Q,9,NoMod,MO,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,F
+Q,9,NoMod,MO,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,G
+Q,9,NoMod,MO,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,G
+Q,9,NoMod,MO,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,H
+Q,9,NoMod,MO,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,H
+Q,9,NoMod,MO,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,I
+Q,9,NoMod,MO,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,I
+Q,9,NoMod,MO,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,J
+Q,9,NoMod,MO,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,J
+Q,9,NoMod,MO,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,K
+Q,9,NoMod,MO,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,K
+Q,9,NoMod,MO,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,L
+Q,9,NoMod,MO,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,L
+Q,9,NoMod,MO,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,M
+Q,9,NoMod,MO,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,M
+Q,9,NoMod,MO,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,N
+Q,9,NoMod,MO,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,N
+Q,9,NoMod,MO,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,O
+Q,9,NoMod,MO,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,O
+Q,9,NoMod,MO,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,P
+Q,9,NoMod,MO,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,P
+Q,10,NoMod,MS,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,A
+Q,10,NoMod,MS,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,A
+Q,10,NoMod,MS,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,B
+Q,10,NoMod,MS,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,B
+Q,10,NoMod,MS,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,C
+Q,10,NoMod,MS,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,C
+Q,10,NoMod,MS,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,D
+Q,10,NoMod,MS,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,D
+Q,10,NoMod,MS,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,E
+Q,10,NoMod,MS,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,E
+Q,10,NoMod,MS,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,F
+Q,10,NoMod,MS,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,F
+Q,10,NoMod,MS,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,G
+Q,10,NoMod,MS,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,G
+Q,10,NoMod,MS,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,H
+Q,10,NoMod,MS,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,H
+Q,10,NoMod,MS,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,I
+Q,10,NoMod,MS,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,I
+Q,10,NoMod,MS,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,J
+Q,10,NoMod,MS,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,J
+Q,10,NoMod,MS,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,K
+Q,10,NoMod,MS,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,K
+Q,10,NoMod,MS,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,L
+Q,10,NoMod,MS,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,L
+Q,10,NoMod,MS,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,M
+Q,10,NoMod,MS,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,M
+Q,10,NoMod,MS,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,N
+Q,10,NoMod,MS,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,N
+Q,10,NoMod,MS,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,O
+Q,10,NoMod,MS,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,O
+Q,10,NoMod,MS,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,P
+Q,10,NoMod,MS,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,P
+Q,11,NoMod,MA,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,A
+Q,11,NoMod,MA,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,A
+Q,11,NoMod,MA,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,B
+Q,11,NoMod,MA,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,B
+Q,11,NoMod,MA,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,C
+Q,11,NoMod,MA,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,C
+Q,11,NoMod,MA,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,D
+Q,11,NoMod,MA,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,D
+Q,11,NoMod,MA,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,E
+Q,11,NoMod,MA,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,E
+Q,11,NoMod,MA,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,F
+Q,11,NoMod,MA,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,F
+Q,11,NoMod,MA,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,G
+Q,11,NoMod,MA,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,G
+Q,11,NoMod,MA,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,H
+Q,11,NoMod,MA,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,H
+Q,11,NoMod,MA,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,I
+Q,11,NoMod,MA,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,I
+Q,11,NoMod,MA,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,J
+Q,11,NoMod,MA,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,J
+Q,11,NoMod,MA,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,K
+Q,11,NoMod,MA,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,K
+Q,11,NoMod,MA,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,L
+Q,11,NoMod,MA,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,L
+Q,11,NoMod,MA,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,M
+Q,11,NoMod,MA,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,M
+Q,11,NoMod,MA,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,N
+Q,11,NoMod,MA,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,N
+Q,11,NoMod,MA,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,O
+Q,11,NoMod,MA,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,O
+Q,11,NoMod,MA,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,P
+Q,11,NoMod,MA,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,P
+Q,12,NoMod,MF,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,A
+Q,12,NoMod,MF,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,A
+Q,12,NoMod,MF,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,B
+Q,12,NoMod,MF,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,B
+Q,12,NoMod,MF,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,C
+Q,12,NoMod,MF,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,C
+Q,12,NoMod,MF,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,D
+Q,12,NoMod,MF,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,D
+Q,12,NoMod,MF,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,E
+Q,12,NoMod,MF,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,E
+Q,12,NoMod,MF,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,F
+Q,12,NoMod,MF,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,F
+Q,12,NoMod,MF,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,G
+Q,12,NoMod,MF,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,G
+Q,12,NoMod,MF,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,H
+Q,12,NoMod,MF,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,H
+Q,12,NoMod,MF,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,I
+Q,12,NoMod,MF,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,I
+Q,12,NoMod,MF,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,J
+Q,12,NoMod,MF,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,J
+Q,12,NoMod,MF,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,K
+Q,12,NoMod,MF,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,K
+Q,12,NoMod,MF,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,L
+Q,12,NoMod,MF,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,L
+Q,12,NoMod,MF,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,M
+Q,12,NoMod,MF,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,M
+Q,12,NoMod,MF,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,N
+Q,12,NoMod,MF,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,N
+Q,12,NoMod,MF,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,O
+Q,12,NoMod,MF,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,O
+Q,12,NoMod,MF,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,P
+Q,12,NoMod,MF,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,P
+Q,13,NoMod,MO,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,A
+Q,13,NoMod,MO,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,A
+Q,13,NoMod,MO,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,B
+Q,13,NoMod,MO,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,B
+Q,13,NoMod,MO,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,C
+Q,13,NoMod,MO,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,C
+Q,13,NoMod,MO,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,D
+Q,13,NoMod,MO,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,D
+Q,13,NoMod,MO,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,E
+Q,13,NoMod,MO,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,E
+Q,13,NoMod,MO,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,F
+Q,13,NoMod,MO,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,F
+Q,13,NoMod,MO,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,G
+Q,13,NoMod,MO,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,G
+Q,13,NoMod,MO,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,H
+Q,13,NoMod,MO,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,H
+Q,13,NoMod,MO,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,I
+Q,13,NoMod,MO,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,I
+Q,13,NoMod,MO,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,J
+Q,13,NoMod,MO,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,J
+Q,13,NoMod,MO,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,K
+Q,13,NoMod,MO,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,K
+Q,13,NoMod,MO,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,L
+Q,13,NoMod,MO,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,L
+Q,13,NoMod,MO,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,M
+Q,13,NoMod,MO,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,M
+Q,13,NoMod,MO,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,N
+Q,13,NoMod,MO,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,N
+Q,13,NoMod,MO,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,O
+Q,13,NoMod,MO,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,O
+Q,13,NoMod,MO,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,P
+Q,13,NoMod,MO,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,P
+Q,14,NoMod,MS,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,A
+Q,14,NoMod,MS,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,A
+Q,14,NoMod,MS,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,B
+Q,14,NoMod,MS,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,B
+Q,14,NoMod,MS,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,C
+Q,14,NoMod,MS,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,C
+Q,14,NoMod,MS,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,D
+Q,14,NoMod,MS,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,D
+Q,14,NoMod,MS,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,E
+Q,14,NoMod,MS,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,E
+Q,14,NoMod,MS,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,F
+Q,14,NoMod,MS,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,F
+Q,14,NoMod,MS,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,G
+Q,14,NoMod,MS,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,G
+Q,14,NoMod,MS,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,H
+Q,14,NoMod,MS,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,H
+Q,14,NoMod,MS,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,I
+Q,14,NoMod,MS,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,I
+Q,14,NoMod,MS,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,J
+Q,14,NoMod,MS,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,J
+Q,14,NoMod,MS,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,K
+Q,14,NoMod,MS,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,K
+Q,14,NoMod,MS,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,L
+Q,14,NoMod,MS,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,L
+Q,14,NoMod,MS,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,M
+Q,14,NoMod,MS,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,M
+Q,14,NoMod,MS,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,N
+Q,14,NoMod,MS,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,N
+Q,14,NoMod,MS,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,O
+Q,14,NoMod,MS,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,O
+Q,14,NoMod,MS,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,P
+Q,14,NoMod,MS,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,P
+Q,15,NoMod,MA,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,A
+Q,15,NoMod,MA,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,A
+Q,15,NoMod,MA,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,B
+Q,15,NoMod,MA,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,B
+Q,15,NoMod,MA,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,C
+Q,15,NoMod,MA,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,C
+Q,15,NoMod,MA,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,D
+Q,15,NoMod,MA,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,D
+Q,15,NoMod,MA,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,E
+Q,15,NoMod,MA,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,E
+Q,15,NoMod,MA,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,F
+Q,15,NoMod,MA,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,F
+Q,15,NoMod,MA,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,G
+Q,15,NoMod,MA,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,G
+Q,15,NoMod,MA,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,H
+Q,15,NoMod,MA,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,H
+Q,15,NoMod,MA,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,I
+Q,15,NoMod,MA,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,I
+Q,15,NoMod,MA,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,J
+Q,15,NoMod,MA,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,J
+Q,15,NoMod,MA,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,K
+Q,15,NoMod,MA,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,K
+Q,15,NoMod,MA,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,L
+Q,15,NoMod,MA,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,L
+Q,15,NoMod,MA,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,M
+Q,15,NoMod,MA,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,M
+Q,15,NoMod,MA,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,N
+Q,15,NoMod,MA,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,N
+Q,15,NoMod,MA,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,O
+Q,15,NoMod,MA,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,O
+Q,15,NoMod,MA,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,P
+Q,15,NoMod,MA,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,P
+Q,16,NoMod,MF,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,A
+Q,16,NoMod,MF,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,A
+Q,16,NoMod,MF,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,B
+Q,16,NoMod,MF,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,B
+Q,16,NoMod,MF,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,C
+Q,16,NoMod,MF,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,C
+Q,16,NoMod,MF,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,D
+Q,16,NoMod,MF,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,D
+Q,16,NoMod,MF,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,E
+Q,16,NoMod,MF,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,E
+Q,16,NoMod,MF,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,F
+Q,16,NoMod,MF,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,F
+Q,16,NoMod,MF,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,G
+Q,16,NoMod,MF,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,G
+Q,16,NoMod,MF,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,H
+Q,16,NoMod,MF,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,H
+Q,16,NoMod,MF,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,I
+Q,16,NoMod,MF,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,I
+Q,16,NoMod,MF,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,J
+Q,16,NoMod,MF,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,J
+Q,16,NoMod,MF,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,K
+Q,16,NoMod,MF,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,K
+Q,16,NoMod,MF,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,L
+Q,16,NoMod,MF,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,L
+Q,16,NoMod,MF,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,M
+Q,16,NoMod,MF,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,M
+Q,16,NoMod,MF,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,N
+Q,16,NoMod,MF,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,N
+Q,16,NoMod,MF,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,O
+Q,16,NoMod,MF,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,O
+Q,16,NoMod,MF,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,P
+Q,16,NoMod,MF,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,P

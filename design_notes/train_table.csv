@@ -1,0 +1,9 @@
+Type,Sentence,Feedback
+train_T,Houses can be made of wood,"Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree."
+train_F,Airplanes fly under water,"Since this statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree."
+train_T,Dinosaurs are extinct,"Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree."
+train_F,California is the capitol of the US,"Since this statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree."
+train_think_T,Historians think that George Washington was a US president,"Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree."
+train_think_F,Geographers think that Spain is in Africa,"Since this statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree."
+train_think_T,Dentists think that flossing is good for you,"Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree."
+train_think_F,Nutritionists think that eating a lot of sugar is healthy,"Since this statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree."

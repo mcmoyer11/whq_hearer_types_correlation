@@ -1,0 +1,513 @@
+Study,QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAnswer,MFAnswer,ModQuestion,NoModQuestion,Group
+Q,1,Mod,MO,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,A
+Q,1,Mod,MO,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,A
+Q,1,Mod,MO,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,B
+Q,1,Mod,MO,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,B
+Q,1,Mod,MO,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,C
+Q,1,Mod,MO,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,C
+Q,1,Mod,MO,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,D
+Q,1,Mod,MO,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,D
+Q,1,Mod,MO,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,E
+Q,1,Mod,MO,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,E
+Q,1,Mod,MO,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,F
+Q,1,Mod,MO,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,F
+Q,1,Mod,MO,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,G
+Q,1,Mod,MO,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,G
+Q,1,Mod,MO,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,H
+Q,1,Mod,MO,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,H
+Q,1,Mod,MO,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,I
+Q,1,Mod,MO,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,I
+Q,1,Mod,MO,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,J
+Q,1,Mod,MO,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,J
+Q,1,Mod,MO,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,K
+Q,1,Mod,MO,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,K
+Q,1,Mod,MO,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,L
+Q,1,Mod,MO,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,L
+Q,1,Mod,MO,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,M
+Q,1,Mod,MO,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,M
+Q,1,Mod,MO,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,N
+Q,1,Mod,MO,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,N
+Q,1,Mod,MO,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,O
+Q,1,Mod,MO,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,O
+Q,1,Mod,MO,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,P
+Q,1,Mod,MO,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,P
+Q,2,Mod,MS,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,A
+Q,2,Mod,MS,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,A
+Q,2,Mod,MS,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,B
+Q,2,Mod,MS,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,B
+Q,2,Mod,MS,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,C
+Q,2,Mod,MS,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,C
+Q,2,Mod,MS,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,D
+Q,2,Mod,MS,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,D
+Q,2,Mod,MS,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,E
+Q,2,Mod,MS,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,E
+Q,2,Mod,MS,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,F
+Q,2,Mod,MS,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,F
+Q,2,Mod,MS,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,G
+Q,2,Mod,MS,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,G
+Q,2,Mod,MS,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,H
+Q,2,Mod,MS,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,H
+Q,2,Mod,MS,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,I
+Q,2,Mod,MS,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,I
+Q,2,Mod,MS,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,J
+Q,2,Mod,MS,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,J
+Q,2,Mod,MS,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,K
+Q,2,Mod,MS,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,K
+Q,2,Mod,MS,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,L
+Q,2,Mod,MS,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,L
+Q,2,Mod,MS,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,M
+Q,2,Mod,MS,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,M
+Q,2,Mod,MS,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,N
+Q,2,Mod,MS,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,N
+Q,2,Mod,MS,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,O
+Q,2,Mod,MS,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,O
+Q,2,Mod,MS,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,P
+Q,2,Mod,MS,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,P
+Q,3,Mod,MA,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,A
+Q,3,Mod,MA,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,A
+Q,3,Mod,MA,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,B
+Q,3,Mod,MA,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,B
+Q,3,Mod,MA,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,C
+Q,3,Mod,MA,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,C
+Q,3,Mod,MA,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,D
+Q,3,Mod,MA,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,D
+Q,3,Mod,MA,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,E
+Q,3,Mod,MA,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,E
+Q,3,Mod,MA,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,F
+Q,3,Mod,MA,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,F
+Q,3,Mod,MA,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,G
+Q,3,Mod,MA,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,G
+Q,3,Mod,MA,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,H
+Q,3,Mod,MA,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,H
+Q,3,Mod,MA,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,I
+Q,3,Mod,MA,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,I
+Q,3,Mod,MA,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,J
+Q,3,Mod,MA,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,J
+Q,3,Mod,MA,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,K
+Q,3,Mod,MA,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,K
+Q,3,Mod,MA,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,L
+Q,3,Mod,MA,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,L
+Q,3,Mod,MA,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,M
+Q,3,Mod,MA,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,M
+Q,3,Mod,MA,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,N
+Q,3,Mod,MA,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,N
+Q,3,Mod,MA,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,O
+Q,3,Mod,MA,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,O
+Q,3,Mod,MA,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,P
+Q,3,Mod,MA,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,P
+Q,4,Mod,MF,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,A
+Q,4,Mod,MF,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,A
+Q,4,Mod,MF,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,B
+Q,4,Mod,MF,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,B
+Q,4,Mod,MF,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,C
+Q,4,Mod,MF,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,C
+Q,4,Mod,MF,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,D
+Q,4,Mod,MF,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,D
+Q,4,Mod,MF,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,E
+Q,4,Mod,MF,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,E
+Q,4,Mod,MF,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,F
+Q,4,Mod,MF,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,F
+Q,4,Mod,MF,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,G
+Q,4,Mod,MF,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,G
+Q,4,Mod,MF,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,H
+Q,4,Mod,MF,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,H
+Q,4,Mod,MF,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,I
+Q,4,Mod,MF,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,I
+Q,4,Mod,MF,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,J
+Q,4,Mod,MF,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,J
+Q,4,Mod,MF,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,K
+Q,4,Mod,MF,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,K
+Q,4,Mod,MF,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,L
+Q,4,Mod,MF,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,L
+Q,4,Mod,MF,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,M
+Q,4,Mod,MF,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,M
+Q,4,Mod,MF,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,N
+Q,4,Mod,MF,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,N
+Q,4,Mod,MF,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,O
+Q,4,Mod,MF,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,O
+Q,4,Mod,MF,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,P
+Q,4,Mod,MF,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,P
+Q,5,Mod,MO,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,A
+Q,5,Mod,MO,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,A
+Q,5,Mod,MO,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,B
+Q,5,Mod,MO,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,B
+Q,5,Mod,MO,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,C
+Q,5,Mod,MO,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,C
+Q,5,Mod,MO,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,D
+Q,5,Mod,MO,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,D
+Q,5,Mod,MO,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,E
+Q,5,Mod,MO,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,E
+Q,5,Mod,MO,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,F
+Q,5,Mod,MO,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,F
+Q,5,Mod,MO,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,G
+Q,5,Mod,MO,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,G
+Q,5,Mod,MO,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,H
+Q,5,Mod,MO,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,H
+Q,5,Mod,MO,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,I
+Q,5,Mod,MO,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,I
+Q,5,Mod,MO,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,J
+Q,5,Mod,MO,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,J
+Q,5,Mod,MO,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,K
+Q,5,Mod,MO,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,K
+Q,5,Mod,MO,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,L
+Q,5,Mod,MO,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,L
+Q,5,Mod,MO,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,M
+Q,5,Mod,MO,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,M
+Q,5,Mod,MO,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,N
+Q,5,Mod,MO,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,N
+Q,5,Mod,MO,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,O
+Q,5,Mod,MO,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,O
+Q,5,Mod,MO,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,P
+Q,5,Mod,MO,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,P
+Q,6,Mod,MS,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,A
+Q,6,Mod,MS,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,A
+Q,6,Mod,MS,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,B
+Q,6,Mod,MS,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,B
+Q,6,Mod,MS,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,C
+Q,6,Mod,MS,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,C
+Q,6,Mod,MS,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,D
+Q,6,Mod,MS,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,D
+Q,6,Mod,MS,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,E
+Q,6,Mod,MS,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,E
+Q,6,Mod,MS,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,F
+Q,6,Mod,MS,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,F
+Q,6,Mod,MS,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,G
+Q,6,Mod,MS,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,G
+Q,6,Mod,MS,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,H
+Q,6,Mod,MS,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,H
+Q,6,Mod,MS,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,I
+Q,6,Mod,MS,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,I
+Q,6,Mod,MS,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,J
+Q,6,Mod,MS,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,J
+Q,6,Mod,MS,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,K
+Q,6,Mod,MS,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,K
+Q,6,Mod,MS,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,L
+Q,6,Mod,MS,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,L
+Q,6,Mod,MS,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,M
+Q,6,Mod,MS,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,M
+Q,6,Mod,MS,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,N
+Q,6,Mod,MS,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,N
+Q,6,Mod,MS,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,O
+Q,6,Mod,MS,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,O
+Q,6,Mod,MS,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,P
+Q,6,Mod,MS,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,P
+Q,7,Mod,MA,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,A
+Q,7,Mod,MA,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,A
+Q,7,Mod,MA,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,B
+Q,7,Mod,MA,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,B
+Q,7,Mod,MA,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,C
+Q,7,Mod,MA,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,C
+Q,7,Mod,MA,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,D
+Q,7,Mod,MA,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,D
+Q,7,Mod,MA,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,E
+Q,7,Mod,MA,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,E
+Q,7,Mod,MA,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,F
+Q,7,Mod,MA,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,F
+Q,7,Mod,MA,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,G
+Q,7,Mod,MA,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,G
+Q,7,Mod,MA,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,H
+Q,7,Mod,MA,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,H
+Q,7,Mod,MA,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,I
+Q,7,Mod,MA,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,I
+Q,7,Mod,MA,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,J
+Q,7,Mod,MA,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,J
+Q,7,Mod,MA,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,K
+Q,7,Mod,MA,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,K
+Q,7,Mod,MA,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,L
+Q,7,Mod,MA,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,L
+Q,7,Mod,MA,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,M
+Q,7,Mod,MA,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,M
+Q,7,Mod,MA,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,N
+Q,7,Mod,MA,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,N
+Q,7,Mod,MA,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,O
+Q,7,Mod,MA,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,O
+Q,7,Mod,MA,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,P
+Q,7,Mod,MA,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,P
+Q,8,Mod,MF,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,A
+Q,8,Mod,MF,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,A
+Q,8,Mod,MF,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,B
+Q,8,Mod,MF,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,B
+Q,8,Mod,MF,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,C
+Q,8,Mod,MF,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,C
+Q,8,Mod,MF,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,D
+Q,8,Mod,MF,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,D
+Q,8,Mod,MF,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,E
+Q,8,Mod,MF,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,E
+Q,8,Mod,MF,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,F
+Q,8,Mod,MF,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,F
+Q,8,Mod,MF,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,G
+Q,8,Mod,MF,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,G
+Q,8,Mod,MF,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,H
+Q,8,Mod,MF,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,H
+Q,8,Mod,MF,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,I
+Q,8,Mod,MF,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,I
+Q,8,Mod,MF,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,J
+Q,8,Mod,MF,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,J
+Q,8,Mod,MF,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,K
+Q,8,Mod,MF,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,K
+Q,8,Mod,MF,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,L
+Q,8,Mod,MF,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,L
+Q,8,Mod,MF,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,M
+Q,8,Mod,MF,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,M
+Q,8,Mod,MF,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,N
+Q,8,Mod,MF,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,N
+Q,8,Mod,MF,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,O
+Q,8,Mod,MF,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,O
+Q,8,Mod,MF,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,P
+Q,8,Mod,MF,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,P
+Q,9,NoMod,MO,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,A
+Q,9,NoMod,MO,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,A
+Q,9,NoMod,MO,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,B
+Q,9,NoMod,MO,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,B
+Q,9,NoMod,MO,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,C
+Q,9,NoMod,MO,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,C
+Q,9,NoMod,MO,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,D
+Q,9,NoMod,MO,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,D
+Q,9,NoMod,MO,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,E
+Q,9,NoMod,MO,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,E
+Q,9,NoMod,MO,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,F
+Q,9,NoMod,MO,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,F
+Q,9,NoMod,MO,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,G
+Q,9,NoMod,MO,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,G
+Q,9,NoMod,MO,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,H
+Q,9,NoMod,MO,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,H
+Q,9,NoMod,MO,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,I
+Q,9,NoMod,MO,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,I
+Q,9,NoMod,MO,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,J
+Q,9,NoMod,MO,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,J
+Q,9,NoMod,MO,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,K
+Q,9,NoMod,MO,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,K
+Q,9,NoMod,MO,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,L
+Q,9,NoMod,MO,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,L
+Q,9,NoMod,MO,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,M
+Q,9,NoMod,MO,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,M
+Q,9,NoMod,MO,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,N
+Q,9,NoMod,MO,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,N
+Q,9,NoMod,MO,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,O
+Q,9,NoMod,MO,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,O
+Q,9,NoMod,MO,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,P
+Q,9,NoMod,MO,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,P
+Q,10,NoMod,MS,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,A
+Q,10,NoMod,MS,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,A
+Q,10,NoMod,MS,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,B
+Q,10,NoMod,MS,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,B
+Q,10,NoMod,MS,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,C
+Q,10,NoMod,MS,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,C
+Q,10,NoMod,MS,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,D
+Q,10,NoMod,MS,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,D
+Q,10,NoMod,MS,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,E
+Q,10,NoMod,MS,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,E
+Q,10,NoMod,MS,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,F
+Q,10,NoMod,MS,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,F
+Q,10,NoMod,MS,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,G
+Q,10,NoMod,MS,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,G
+Q,10,NoMod,MS,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,H
+Q,10,NoMod,MS,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,H
+Q,10,NoMod,MS,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,I
+Q,10,NoMod,MS,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,I
+Q,10,NoMod,MS,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,J
+Q,10,NoMod,MS,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,J
+Q,10,NoMod,MS,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,K
+Q,10,NoMod,MS,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,K
+Q,10,NoMod,MS,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,L
+Q,10,NoMod,MS,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,L
+Q,10,NoMod,MS,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,M
+Q,10,NoMod,MS,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,M
+Q,10,NoMod,MS,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,N
+Q,10,NoMod,MS,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,N
+Q,10,NoMod,MS,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,O
+Q,10,NoMod,MS,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,O
+Q,10,NoMod,MS,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,P
+Q,10,NoMod,MS,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,P
+Q,11,NoMod,MA,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,A
+Q,11,NoMod,MA,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,A
+Q,11,NoMod,MA,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,B
+Q,11,NoMod,MA,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,B
+Q,11,NoMod,MA,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,C
+Q,11,NoMod,MA,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,C
+Q,11,NoMod,MA,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,D
+Q,11,NoMod,MA,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,D
+Q,11,NoMod,MA,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,E
+Q,11,NoMod,MA,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,E
+Q,11,NoMod,MA,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,F
+Q,11,NoMod,MA,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,F
+Q,11,NoMod,MA,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,G
+Q,11,NoMod,MA,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,G
+Q,11,NoMod,MA,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,H
+Q,11,NoMod,MA,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,H
+Q,11,NoMod,MA,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,I
+Q,11,NoMod,MA,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,I
+Q,11,NoMod,MA,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,J
+Q,11,NoMod,MA,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,J
+Q,11,NoMod,MA,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,K
+Q,11,NoMod,MA,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,K
+Q,11,NoMod,MA,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,L
+Q,11,NoMod,MA,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,L
+Q,11,NoMod,MA,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,M
+Q,11,NoMod,MA,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,M
+Q,11,NoMod,MA,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,N
+Q,11,NoMod,MA,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,N
+Q,11,NoMod,MA,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,O
+Q,11,NoMod,MA,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,O
+Q,11,NoMod,MA,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,P
+Q,11,NoMod,MA,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,P
+Q,12,NoMod,MF,know,Dana knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,A
+Q,12,NoMod,MF,know,Dana knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,A
+Q,12,NoMod,MF,know,Dana knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,B
+Q,12,NoMod,MF,know,Dana knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,B
+Q,12,NoMod,MF,know,Dana knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,C
+Q,12,NoMod,MF,know,Dana knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,C
+Q,12,NoMod,MF,know,Dana knows,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,D
+Q,12,NoMod,MF,know,Dana knows,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,D
+Q,12,NoMod,MF,know,Dana knows,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,E
+Q,12,NoMod,MF,know,Dana knows,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,E
+Q,12,NoMod,MF,know,Dana knows,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,F
+Q,12,NoMod,MF,know,Dana knows,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,F
+Q,12,NoMod,MF,know,Dana knows,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,G
+Q,12,NoMod,MF,know,Dana knows,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,G
+Q,12,NoMod,MF,know,Dana knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,H
+Q,12,NoMod,MF,know,Dana knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,H
+Q,12,NoMod,MF,know,Dana knows,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,I
+Q,12,NoMod,MF,know,Dana knows,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,I
+Q,12,NoMod,MF,know,Dana knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,J
+Q,12,NoMod,MF,know,Dana knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,J
+Q,12,NoMod,MF,know,Dana knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,K
+Q,12,NoMod,MF,know,Dana knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,K
+Q,12,NoMod,MF,know,Dana knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,L
+Q,12,NoMod,MF,know,Dana knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,L
+Q,12,NoMod,MF,know,Dana knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,M
+Q,12,NoMod,MF,know,Dana knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,M
+Q,12,NoMod,MF,know,Dana knows,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,N
+Q,12,NoMod,MF,know,Dana knows,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,N
+Q,12,NoMod,MF,know,Dana knows,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,O
+Q,12,NoMod,MF,know,Dana knows,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,O
+Q,12,NoMod,MF,know,Dana knows,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,P
+Q,12,NoMod,MF,know,Dana knows,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,P
+Q,13,NoMod,MO,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,A
+Q,13,NoMod,MO,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,A
+Q,13,NoMod,MO,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,B
+Q,13,NoMod,MO,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,B
+Q,13,NoMod,MO,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,C
+Q,13,NoMod,MO,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,C
+Q,13,NoMod,MO,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,D
+Q,13,NoMod,MO,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,D
+Q,13,NoMod,MO,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,E
+Q,13,NoMod,MO,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,E
+Q,13,NoMod,MO,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,F
+Q,13,NoMod,MO,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,F
+Q,13,NoMod,MO,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,G
+Q,13,NoMod,MO,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,G
+Q,13,NoMod,MO,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,H
+Q,13,NoMod,MO,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,H
+Q,13,NoMod,MO,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,I
+Q,13,NoMod,MO,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,I
+Q,13,NoMod,MO,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,J
+Q,13,NoMod,MO,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,J
+Q,13,NoMod,MO,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,K
+Q,13,NoMod,MO,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,K
+Q,13,NoMod,MO,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,L
+Q,13,NoMod,MO,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,L
+Q,13,NoMod,MO,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,M
+Q,13,NoMod,MO,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,M
+Q,13,NoMod,MO,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,N
+Q,13,NoMod,MO,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,N
+Q,13,NoMod,MO,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,O
+Q,13,NoMod,MO,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,O
+Q,13,NoMod,MO,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,P
+Q,13,NoMod,MO,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,P
+Q,14,NoMod,MS,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,A
+Q,14,NoMod,MS,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,A
+Q,14,NoMod,MS,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,B
+Q,14,NoMod,MS,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,B
+Q,14,NoMod,MS,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,C
+Q,14,NoMod,MS,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,C
+Q,14,NoMod,MS,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,D
+Q,14,NoMod,MS,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,D
+Q,14,NoMod,MS,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,E
+Q,14,NoMod,MS,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,E
+Q,14,NoMod,MS,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,F
+Q,14,NoMod,MS,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,F
+Q,14,NoMod,MS,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,G
+Q,14,NoMod,MS,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,G
+Q,14,NoMod,MS,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,H
+Q,14,NoMod,MS,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,H
+Q,14,NoMod,MS,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,I
+Q,14,NoMod,MS,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,I
+Q,14,NoMod,MS,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,J
+Q,14,NoMod,MS,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,J
+Q,14,NoMod,MS,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,K
+Q,14,NoMod,MS,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,K
+Q,14,NoMod,MS,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,L
+Q,14,NoMod,MS,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,L
+Q,14,NoMod,MS,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,M
+Q,14,NoMod,MS,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,M
+Q,14,NoMod,MS,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,N
+Q,14,NoMod,MS,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,N
+Q,14,NoMod,MS,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,O
+Q,14,NoMod,MS,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,O
+Q,14,NoMod,MS,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,P
+Q,14,NoMod,MS,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,P
+Q,15,NoMod,MA,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,A
+Q,15,NoMod,MA,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,A
+Q,15,NoMod,MA,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,B
+Q,15,NoMod,MA,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,B
+Q,15,NoMod,MA,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,C
+Q,15,NoMod,MA,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,C
+Q,15,NoMod,MA,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,D
+Q,15,NoMod,MA,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,D
+Q,15,NoMod,MA,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,E
+Q,15,NoMod,MA,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,E
+Q,15,NoMod,MA,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,F
+Q,15,NoMod,MA,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,F
+Q,15,NoMod,MA,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,G
+Q,15,NoMod,MA,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,G
+Q,15,NoMod,MA,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,H
+Q,15,NoMod,MA,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,H
+Q,15,NoMod,MA,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,I
+Q,15,NoMod,MA,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,I
+Q,15,NoMod,MA,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,J
+Q,15,NoMod,MA,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,J
+Q,15,NoMod,MA,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,K
+Q,15,NoMod,MA,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,K
+Q,15,NoMod,MA,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,L
+Q,15,NoMod,MA,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,L
+Q,15,NoMod,MA,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,M
+Q,15,NoMod,MA,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,M
+Q,15,NoMod,MA,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,N
+Q,15,NoMod,MA,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,N
+Q,15,NoMod,MA,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,O
+Q,15,NoMod,MA,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,O
+Q,15,NoMod,MA,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,P
+Q,15,NoMod,MA,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,P
+Q,16,NoMod,MF,say,Dana said,four1.png,F,A and F,"A, B, D, and F",E,ho can give a four,ho has a four to give,A
+Q,16,NoMod,MF,say,Dana said,four2.png,E,B and E,"B, D, E, and F",C,ho can give a four,ho has a four to give,A
+Q,16,NoMod,MF,say,Dana said,red1.png,A,A and B,"A, B, D, and F",C,ho can give a red card,ho has a red card to give,B
+Q,16,NoMod,MF,say,Dana said,red2.png,F,D and F,"B, C, D, and F",A,ho can give a red card,ho has a red card to give,B
+Q,16,NoMod,MF,say,Dana said,black1.png,D,B and D,"A, B, D, and F",C,ho can give a black card,ho has a black card to give,C
+Q,16,NoMod,MF,say,Dana said,black2.png,B,B and C,"B, C, D, and F",E,ho can give a black card,ho has a black card to give,C
+Q,16,NoMod,MF,say,Dana said,spade1.png,C,B and C,"B, C, E, and F",A,ho can give a spade,ho has a spade to give,D
+Q,16,NoMod,MF,say,Dana said,spade2.png,E,B and E,"A, B, C, and E",D,ho can give a spade,ho has a spade to give,D
+Q,16,NoMod,MF,say,Dana said,club1.png,A,A and C,"A, C, D, and F",B,ho can give a club,ho has a club to give,E
+Q,16,NoMod,MF,say,Dana said,club2.png,C,B and C,"B, C, D, and E",F,ho can give a club,ho has a club to give,E
+Q,16,NoMod,MF,say,Dana said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can give a diamond,ho has a diamond to give,F
+Q,16,NoMod,MF,say,Dana said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can give a diamond,ho has a diamond to give,F
+Q,16,NoMod,MF,say,Dana said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can give a heart,ho has a heart to give,G
+Q,16,NoMod,MF,say,Dana said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can give a heart,ho has a heart to give,G
+Q,16,NoMod,MF,say,Dana said,jack1.png,A,A and B,"A, B, D, and F",E,ho can give a jack,ho has a jack to give,H
+Q,16,NoMod,MF,say,Dana said,jack2.png,A,A and C,"A, C, E, and F",B,ho can give a jack,ho has a jack to give,H
+Q,16,NoMod,MF,say,Dana said,queen1.png,B,B and C,"A, B, C, and E",D,ho can give a queen,ho has a queen to give,I
+Q,16,NoMod,MF,say,Dana said,queen2.png,F,E and F,"B, C, E, and F",A,ho can give a queen,ho has a queen to give,I
+Q,16,NoMod,MF,say,Dana said,king1.png,D,D and E,"A, B, D, and E",C,ho can give a king,ho has a king to give,J
+Q,16,NoMod,MF,say,Dana said,king2.png,C,C and D,"A, C, D, and F",E,ho can give a king,ho has a king to give,J
+Q,16,NoMod,MF,say,Dana said,face1.png,C,C and D,"A, C, D, and E",F,ho can give a face card,ho has a face card to give,K
+Q,16,NoMod,MF,say,Dana said,face2.png,B,B and C,"B, C, D, and F",A,ho can give a face card,ho has a face card to give,K
+Q,16,NoMod,MF,say,Dana said,number1.png,F,C and F,"C, D, E, and F",A,ho can give a number card,ho has a number card to give,L
+Q,16,NoMod,MF,say,Dana said,number2.png,A,A and B,"A, B, D, and F",C,ho can give a number card,ho has a number card to give,L
+Q,16,NoMod,MF,say,Dana said,ace1.png,B,B and C,"B, C, E, and F",D,ho can give an ace,ho has an ace to give,M
+Q,16,NoMod,MF,say,Dana said,ace2.png,E,C and E,"A, B, C, and E",D,ho can give an ace,ho has an ace to give,M
+Q,16,NoMod,MF,say,Dana said,ten1.png,C,C and D,"B, C, D, and F",E,ho can give a ten,ho has a ten to give,N
+Q,16,NoMod,MF,say,Dana said,ten2.png,F,A and F,"A, B, E, and F",C,ho can give a ten,ho has a ten to give,N
+Q,16,NoMod,MF,say,Dana said,eight1.png,D,B and D,"B, C, D, and E",A,ho can give a eight,ho has an eight to give,O
+Q,16,NoMod,MF,say,Dana said,eight2.png,B,A and B,"A, B, D, and E",F,ho can give a eight,ho has an eight to give,O
+Q,16,NoMod,MF,say,Dana said,six1.png,A,A and B,"A, B, C, and F",D,ho can give a six,ho has a six to give,P
+Q,16,NoMod,MF,say,Dana said,six2.png,D,D and E,"B, D, E, and F",A,ho can give a six,ho has a six to give,P

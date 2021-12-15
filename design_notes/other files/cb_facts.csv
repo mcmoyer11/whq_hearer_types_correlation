@@ -1,0 +1,10 @@
+﻿SentNumber,Verb,WhichCategory,Matrix,Subject,Predicate,Group,SentType,Negation,CompTruth,SubStat
+1,know,Matching,Zoologists know that,Token,Category,,T4,0,1,expert
+2,know,Mismatching,Zoologists know that,Token,Category,,T2,0,0,expert
+3,know,Matching,Zoologists don't know that,Token,Category,,T3,1,1,expert
+4,know,Mismatching,Zoologists don't know that,Token,Category,,T1,1,0,expert
+5,know,Matching,Babies don't know that,Token,Category,,T6,1,1,novice
+6,know,Mismatching,Babies don't know that,Token,Category,,T5,1,0,novice
+7,say,Mismatching,Zoologists don't say that,Token,Category,,T7,1,0,expert
+8,say,Mismatching,Babies say that,Token,Category,,T8,0,0,novice
+9,say,Matching,Babies say that,Token,Category,,T9,0,1,novice

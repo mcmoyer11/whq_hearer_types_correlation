@@ -1,0 +1,3143 @@
+#
+# Results on Friday May 08 2020 14:56:46 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+# Design number was non-random = 62
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,0,0,intro,NULL,PennController,0,_Trial_,Start,1588949655370,19837,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,0,0,intro,NULL,TextInput,ID,Final,19837,1588949659129,19837,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,0,0,intro,NULL,PennController,0,_Trial_,End,1588949659129,19837,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1588949659133,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1588949667648,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,2,0,Train,NULL,Houses can be made of wood
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,2,1,Train,NULL,PennController,4,_Trial_,Start,1588949669672,19837,train_T,Houses can be made of wood,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,2,1,Train,NULL,Text,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,Print,NA,1588949669681,19837,train_T,Houses can be made of wood,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,2,1,Train,NULL,Selector,unnamed-Selector,Selection,Agree,1588949671422,19837,train_T,Houses can be made of wood,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,2,1,Train,NULL,PennController,4,_Trial_,End,1588949671427,19837,train_T,Houses can be made of wood,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,3,0,Train,NULL,Airplanes fly under water
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,3,1,Train,NULL,PennController,5,_Trial_,Start,1588949672751,19837,train_F,Airplanes fly under water,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,3,1,Train,NULL,Text,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,Print,NA,1588949672760,19837,train_F,Airplanes fly under water,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,3,1,Train,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949673084,19837,train_F,Airplanes fly under water,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,3,1,Train,NULL,PennController,5,_Trial_,End,1588949673087,19837,train_F,Airplanes fly under water,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,4,0,Train,NULL,Dinosaurs are extinct
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,4,1,Train,NULL,PennController,6,_Trial_,Start,1588949674054,19837,train_T,Dinosaurs are extinct,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,4,1,Train,NULL,Text,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,Print,NA,1588949674062,19837,train_T,Dinosaurs are extinct,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,4,1,Train,NULL,Selector,unnamed-Selector,Selection,Agree,1588949674540,19837,train_T,Dinosaurs are extinct,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,4,1,Train,NULL,PennController,6,_Trial_,End,1588949674543,19837,train_T,Dinosaurs are extinct,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,5,0,Train,NULL,California is the capitol of the US
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,5,1,Train,NULL,PennController,7,_Trial_,Start,1588949676938,19837,train_F,California is the capitol of the US,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,5,1,Train,NULL,Text,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,Print,NA,1588949676945,19837,train_F,California is the capitol of the US,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,5,1,Train,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949677212,19837,train_F,California is the capitol of the US,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,5,1,Train,NULL,PennController,7,_Trial_,End,1588949677214,19837,train_F,California is the capitol of the US,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,6,0,Train,NULL,Historians think that George Washington was a US president
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,6,1,Train,NULL,PennController,8,_Trial_,Start,1588949680305,19837,train_think_T,Historians think that George Washington was a US president,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,6,1,Train,NULL,Text,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,Print,NA,1588949680313,19837,train_think_T,Historians think that George Washington was a US president,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,6,1,Train,NULL,Selector,unnamed-Selector,Selection,Agree,1588949680542,19837,train_think_T,Historians think that George Washington was a US president,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,6,1,Train,NULL,PennController,8,_Trial_,End,1588949680544,19837,train_think_T,Historians think that George Washington was a US president,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,7,0,Train,NULL,Geographers think that Spain is in Africa
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,7,1,Train,NULL,PennController,9,_Trial_,Start,1588949682924,19837,train_think_F,Geographers think that Spain is in Africa,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,7,1,Train,NULL,Text,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,Print,NA,1588949682932,19837,train_think_F,Geographers think that Spain is in Africa,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,7,1,Train,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949683085,19837,train_think_F,Geographers think that Spain is in Africa,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,7,1,Train,NULL,PennController,9,_Trial_,End,1588949683087,19837,train_think_F,Geographers think that Spain is in Africa,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,8,0,Train,NULL,Dentists think that flossing is good for you
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,8,1,Train,NULL,PennController,10,_Trial_,Start,1588949685828,19837,train_think_T,Dentists think that flossing is good for you,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,8,1,Train,NULL,Text,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,Print,NA,1588949685835,19837,train_think_T,Dentists think that flossing is good for you,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,8,1,Train,NULL,Selector,unnamed-Selector,Selection,Agree,1588949688333,19837,train_think_T,Dentists think that flossing is good for you,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,8,1,Train,NULL,PennController,10,_Trial_,End,1588949688335,19837,train_think_T,Dentists think that flossing is good for you,Since this statement is <strong>correct</strong>%2C you should press <strong>F</strong> on the keyboard to agree.,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Type.
+#     Col. 15: Sentence.
+#     Col. 16: Feedback.
+#     Col. 17: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,9,0,Train,NULL,Nutritionists think that eating a lot of sugar is healthy
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,9,1,Train,NULL,PennController,11,_Trial_,Start,1588949691780,19837,train_think_F,Nutritionists think that eating a lot of sugar is healthy,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Type.
+# 15. Sentence.
+# 16. Feedback.
+# 17. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,9,1,Train,NULL,Text,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,Print,NA,1588949691787,19837,train_think_F,Nutritionists think that eating a lot of sugar is healthy,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,9,1,Train,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949692205,19837,train_think_F,Nutritionists think that eating a lot of sugar is healthy,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,9,1,Train,NULL,PennController,11,_Trial_,End,1588949692208,19837,train_think_F,Nutritionists think that eating a lot of sugar is healthy,Since this statement is <strong>incorrect</strong>%2C you should press <strong>J</strong> on the keyboard to disagree.,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,10,0,end_train,NULL,PennController,2,_Trial_,Start,1588949692212,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,10,0,end_train,NULL,PennController,2,_Trial_,End,1588949694368,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,33,0,test,NULL,Zoologists say that all crocodiles are reptiles
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,33,1,test,NULL,PennController,34,_Trial_,Start,1588949696746,19837,BN,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,crocodiles,reptiles,mamals,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,33,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949697389,19837,BN,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,crocodiles,reptiles,mamals,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,33,1,test,NULL,PennController,34,_Trial_,End,1588949697392,19837,BN,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,crocodiles,reptiles,mamals,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,41,0,test,NULL, all reptiles are geckos
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,41,1,test,NULL,PennController,42,_Trial_,Start,1588949699064,19837,BN,16,all,,Matching,Category,Token,T5,none,0,geckos,reptiles,mamals,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,41,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949699693,19837,BN,16,all,,Matching,Category,Token,T5,none,0,geckos,reptiles,mamals,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,41,1,test,NULL,PennController,42,_Trial_,End,1588949699695,19837,BN,16,all,,Matching,Category,Token,T5,none,0,geckos,reptiles,mamals,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,23,0,test,NULL, some birds are crows
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,23,1,test,NULL,PennController,24,_Trial_,Start,1588949701365,19837,BN,7,some,,Matching,Category,Token,T2,none,0,crows,birds,reptiles,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,23,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949702125,19837,BN,7,some,,Matching,Category,Token,T2,none,0,crows,birds,reptiles,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,23,1,test,NULL,PennController,24,_Trial_,End,1588949702128,19837,BN,7,some,,Matching,Category,Token,T2,none,0,crows,birds,reptiles,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,18,0,test,NULL, some mosquitos are fishes
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,18,1,test,NULL,PennController,19,_Trial_,Start,1588949703806,19837,BN,4,some,,Mismatching,Token,Category,T3,none,0,mosquitos,insects,fishes,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,18,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949704238,19837,BN,4,some,,Mismatching,Token,Category,T3,none,0,mosquitos,insects,fishes,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,18,1,test,NULL,PennController,19,_Trial_,End,1588949704240,19837,BN,4,some,,Mismatching,Token,Category,T3,none,0,mosquitos,insects,fishes,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,15,0,test,NULL,Zoologists say that some mackerels are fishes
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,15,1,test,NULL,PennController,16,_Trial_,Start,1588949706618,19837,BN,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,mackerels,fishes,birds,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,15,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949706957,19837,BN,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,mackerels,fishes,birds,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,15,1,test,NULL,PennController,16,_Trial_,End,1588949706959,19837,BN,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,mackerels,fishes,birds,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,22,0,test,NULL,Zoologists say that some bananas are insects
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,22,1,test,NULL,PennController,23,_Trial_,Start,1588949709340,19837,BN,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,bananas,fruit,insects,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,22,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949709645,19837,BN,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,bananas,fruit,insects,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,22,1,test,NULL,PennController,23,_Trial_,End,1588949709647,19837,BN,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,bananas,fruit,insects,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,13,0,test,NULL,Zoologists know that some piranhas are fishes
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,13,1,test,NULL,PennController,14,_Trial_,Start,1588949712026,19837,BN,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,piranhas,fishes,birds,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,13,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949713229,19837,BN,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,piranhas,fishes,birds,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,13,1,test,NULL,PennController,14,_Trial_,End,1588949713231,19837,BN,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,piranhas,fishes,birds,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,40,0,test,NULL,Zoologists say that all elephants are fruit
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,40,1,test,NULL,PennController,41,_Trial_,Start,1588949715608,19837,BN,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,elephants,mammals,fruit,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,40,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949715998,19837,BN,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,elephants,mammals,fruit,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,40,1,test,NULL,PennController,41,_Trial_,End,1588949716000,19837,BN,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,elephants,mammals,fruit,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,45,0,test,NULL,Zoologists say that all fishes are carp
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,45,1,test,NULL,PennController,46,_Trial_,Start,1588949718377,19837,BN,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,carp,fishes,birds,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,45,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949719037,19837,BN,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,carp,fishes,birds,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,45,1,test,NULL,PennController,46,_Trial_,End,1588949719039,19837,BN,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,carp,fishes,birds,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,14,0,test,NULL,Zoologists know that some ants are insects
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,14,1,test,NULL,PennController,15,_Trial_,Start,1588949721419,19837,BN,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,ants,insects,fishes,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,14,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949722653,19837,BN,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,ants,insects,fishes,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,14,1,test,NULL,PennController,15,_Trial_,End,1588949722666,19837,BN,2,some,Zoologists know that,Matching,Token,Category,T1,know,1,ants,insects,fishes,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,29,0,test,NULL, all doves are birds
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,29,1,test,NULL,PennController,30,_Trial_,Start,1588949724339,19837,BN,10,all,,Matching,Token,Category,T4,none,0,doves,birds,reptiles,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,29,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949724557,19837,BN,10,all,,Matching,Token,Category,T4,none,0,doves,birds,reptiles,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,29,1,test,NULL,PennController,30,_Trial_,End,1588949724559,19837,BN,10,all,,Matching,Token,Category,T4,none,0,doves,birds,reptiles,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,36,0,test,NULL, all dogs are fruit
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,36,1,test,NULL,PennController,37,_Trial_,Start,1588949726230,19837,BN,13,all,,Mismatching,Token,Category,T6,none,0,dogs,mammals,fruit,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,36,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949726542,19837,BN,13,all,,Mismatching,Token,Category,T6,none,0,dogs,mammals,fruit,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,36,1,test,NULL,PennController,37,_Trial_,End,1588949726545,19837,BN,13,all,,Mismatching,Token,Category,T6,none,0,dogs,mammals,fruit,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,26,0,test,NULL,Zoologists know that some fruit are peaches
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,26,1,test,NULL,PennController,27,_Trial_,Start,1588949728916,19837,BN,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,peaches,fruit,insects,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,26,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949729661,19837,BN,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,peaches,fruit,insects,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,26,1,test,NULL,PennController,27,_Trial_,End,1588949729663,19837,BN,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,peaches,fruit,insects,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,32,0,test,NULL,Zoologists know that all cats are mammals
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,32,1,test,NULL,PennController,33,_Trial_,Start,1588949732040,19837,BN,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,cats,mammals,fruit,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,32,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949732925,19837,BN,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,cats,mammals,fruit,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,32,1,test,NULL,PennController,33,_Trial_,End,1588949732927,19837,BN,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,cats,mammals,fruit,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,19,0,test,NULL,Zoologists know that some eagles are reptiles
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,19,1,test,NULL,PennController,20,_Trial_,Start,1588949735302,19837,BN,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,eagles,birds,reptiles,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,19,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949736236,19837,BN,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,eagles,birds,reptiles,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,19,1,test,NULL,PennController,20,_Trial_,End,1588949736239,19837,BN,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,eagles,birds,reptiles,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,24,0,test,NULL, some fruit are apples
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,24,1,test,NULL,PennController,25,_Trial_,Start,1588949737915,19837,BN,7,some,,Matching,Category,Token,T2,none,0,apples,fruit,insects,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,24,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949739454,19837,BN,7,some,,Matching,Category,Token,T2,none,0,apples,fruit,insects,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,24,1,test,NULL,PennController,25,_Trial_,End,1588949739456,19837,BN,7,some,,Matching,Category,Token,T2,none,0,apples,fruit,insects,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,44,0,test,NULL,Zoologists know that all insects are wasps
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,44,1,test,NULL,PennController,45,_Trial_,Start,1588949741835,19837,BN,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,wasps,insects,fishes,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,44,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949742444,19837,BN,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,wasps,insects,fishes,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,44,1,test,NULL,PennController,45,_Trial_,End,1588949742448,19837,BN,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,wasps,insects,fishes,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,17,0,test,NULL, some herring are birds
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,17,1,test,NULL,PennController,18,_Trial_,Start,1588949744118,19837,BN,4,some,,Mismatching,Token,Category,T3,none,0,herring,fishes,birds,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,17,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949744604,19837,BN,4,some,,Mismatching,Token,Category,T3,none,0,herring,fishes,birds,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,17,1,test,NULL,PennController,18,_Trial_,End,1588949744606,19837,BN,4,some,,Mismatching,Token,Category,T3,none,0,herring,fishes,birds,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,38,0,test,NULL,Zoologists know that all pigs are fruit
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,38,1,test,NULL,PennController,39,_Trial_,Start,1588949746985,19837,BN,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,pigs,mammals,fruit,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,38,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949747468,19837,BN,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,pigs,mammals,fruit,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,38,1,test,NULL,PennController,39,_Trial_,End,1588949747470,19837,BN,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,pigs,mammals,fruit,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,43,0,test,NULL,Zoologists know that all fishes are anchovies
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,43,1,test,NULL,PennController,44,_Trial_,Start,1588949749846,19837,BN,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,anchovies,fishes,birds,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,43,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949750749,19837,BN,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,anchovies,fishes,birds,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,43,1,test,NULL,PennController,44,_Trial_,End,1588949750751,19837,BN,17,all,Zoologists know that,Matching,Category,Token,T5,know,1,anchovies,fishes,birds,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,25,0,test,NULL,Zoologists know that some birds are owls
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,25,1,test,NULL,PennController,26,_Trial_,Start,1588949753129,19837,BN,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,owls,birds,reptiles,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,25,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949753692,19837,BN,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,owls,birds,reptiles,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,25,1,test,NULL,PennController,26,_Trial_,End,1588949753694,19837,BN,8,some,Zoologists know that,Matching,Category,Token,T2,know,1,owls,birds,reptiles,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,37,0,test,NULL,Zoologists know that all iguanas are mamals
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,37,1,test,NULL,PennController,38,_Trial_,Start,1588949756069,19837,BN,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,iguanas,reptiles,mamals,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,37,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949756492,19837,BN,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,iguanas,reptiles,mamals,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,37,1,test,NULL,PennController,38,_Trial_,End,1588949756494,19837,BN,14,all,Zoologists know that,Mismatching,Token,Category,T6,know,1,iguanas,reptiles,mamals,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,16,0,test,NULL,Zoologists say that some flies are insects
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,16,1,test,NULL,PennController,17,_Trial_,Start,1588949758877,19837,BN,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,flies,insects,fishes,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,16,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949759565,19837,BN,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,flies,insects,fishes,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,16,1,test,NULL,PennController,17,_Trial_,End,1588949759568,19837,BN,3,some,Zoologists say that,Matching,Token,Category,T1,say,1,flies,insects,fishes,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,30,0,test,NULL, all plums are fruit
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,30,1,test,NULL,PennController,31,_Trial_,Start,1588949761239,19837,BN,10,all,,Matching,Token,Category,T4,none,0,plums,fruit,insects,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,30,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949761501,19837,BN,10,all,,Matching,Token,Category,T4,none,0,plums,fruit,insects,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,30,1,test,NULL,PennController,31,_Trial_,End,1588949761503,19837,BN,10,all,,Matching,Token,Category,T4,none,0,plums,fruit,insects,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,31,0,test,NULL,Zoologists know that all alligators are reptiles
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,31,1,test,NULL,PennController,32,_Trial_,Start,1588949763882,19837,BN,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,alligators,reptiles,mamals,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,31,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949764077,19837,BN,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,alligators,reptiles,mamals,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,31,1,test,NULL,PennController,32,_Trial_,End,1588949764079,19837,BN,11,all,Zoologists know that,Matching,Token,Category,T4,know,1,alligators,reptiles,mamals,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,35,0,test,NULL, all chameleons are mamals
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,35,1,test,NULL,PennController,36,_Trial_,Start,1588949765748,19837,BN,13,all,,Mismatching,Token,Category,T6,none,0,chameleons,reptiles,mamals,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,35,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949766044,19837,BN,13,all,,Mismatching,Token,Category,T6,none,0,chameleons,reptiles,mamals,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,35,1,test,NULL,PennController,36,_Trial_,End,1588949766046,19837,BN,13,all,,Mismatching,Token,Category,T6,none,0,chameleons,reptiles,mamals,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,39,0,test,NULL,Zoologists say that all lizards are mamals
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,39,1,test,NULL,PennController,40,_Trial_,Start,1588949768423,19837,BN,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,lizards,reptiles,mamals,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,39,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949768780,19837,BN,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,lizards,reptiles,mamals,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,39,1,test,NULL,PennController,40,_Trial_,End,1588949768782,19837,BN,15,all,Zoologists say that,Mismatching,Token,Category,T6,say,1,lizards,reptiles,mamals,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,28,0,test,NULL,Zoologists say that some fruit are pears
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,28,1,test,NULL,PennController,29,_Trial_,Start,1588949771160,19837,BN,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,pears,fruit,insects,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,28,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949771420,19837,BN,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,pears,fruit,insects,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,28,1,test,NULL,PennController,29,_Trial_,End,1588949771422,19837,BN,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,pears,fruit,insects,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,42,0,test,NULL, all mammals are sheep
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,42,1,test,NULL,PennController,43,_Trial_,Start,1588949773093,19837,BN,16,all,,Matching,Category,Token,T5,none,0,sheep,mammals,fruit,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,42,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949773325,19837,BN,16,all,,Matching,Category,Token,T5,none,0,sheep,mammals,fruit,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,42,1,test,NULL,PennController,43,_Trial_,End,1588949773327,19837,BN,16,all,,Matching,Category,Token,T5,none,0,sheep,mammals,fruit,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,12,0,test,NULL, some cicadas are insects
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,12,1,test,NULL,PennController,13,_Trial_,Start,1588949774995,19837,BN,1,some,,Matching,Token,Category,T1,none,0,cicadas,insects,fishes,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,12,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949775164,19837,BN,1,some,,Matching,Token,Category,T1,none,0,cicadas,insects,fishes,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,12,1,test,NULL,PennController,13,_Trial_,End,1588949775166,19837,BN,1,some,,Matching,Token,Category,T1,none,0,cicadas,insects,fishes,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,27,0,test,NULL,Zoologists say that some birds are sparrows
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,27,1,test,NULL,PennController,28,_Trial_,Start,1588949777545,19837,BN,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,sparrows,birds,reptiles,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,27,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949778092,19837,BN,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,sparrows,birds,reptiles,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,27,1,test,NULL,PennController,28,_Trial_,End,1588949778095,19837,BN,9,some,Zoologists say that,Matching,Category,Token,T2,say,1,sparrows,birds,reptiles,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,20,0,test,NULL,Zoologists know that some strawberries are insects
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,20,1,test,NULL,PennController,21,_Trial_,Start,1588949780477,19837,BN,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,strawberries,fruit,insects,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,20,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949780764,19837,BN,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,strawberries,fruit,insects,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,20,1,test,NULL,PennController,21,_Trial_,End,1588949780766,19837,BN,5,some,Zoologists know that,Mismatching,Token,Category,T3,know,1,strawberries,fruit,insects,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,11,0,test,NULL, some cod are fishes
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,11,1,test,NULL,PennController,12,_Trial_,Start,1588949782435,19837,BN,1,some,,Matching,Token,Category,T1,none,0,cod,fishes,birds,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,11,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949782572,19837,BN,1,some,,Matching,Token,Category,T1,none,0,cod,fishes,birds,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,11,1,test,NULL,PennController,12,_Trial_,End,1588949782574,19837,BN,1,some,,Matching,Token,Category,T1,none,0,cod,fishes,birds,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,46,0,test,NULL,Zoologists say that all insects are cockroaches
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,46,1,test,NULL,PennController,47,_Trial_,Start,1588949784948,19837,BN,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,cockroaches,insects,fishes,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,46,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949784989,19837,BN,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,cockroaches,insects,fishes,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,46,1,test,NULL,PennController,47,_Trial_,End,1588949784991,19837,BN,18,all,Zoologists say that,Matching,Category,Token,T5,say,1,cockroaches,insects,fishes,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,21,0,test,NULL,Zoologists say that some canaries are reptiles
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,21,1,test,NULL,PennController,22,_Trial_,Start,1588949787366,19837,BN,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,canaries,birds,reptiles,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,21,1,test,NULL,Selector,unnamed-Selector,Selection,Disagree,1588949787659,19837,BN,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,canaries,birds,reptiles,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,21,1,test,NULL,PennController,22,_Trial_,End,1588949787660,19837,BN,6,some,Zoologists say that,Mismatching,Token,Category,T3,say,1,canaries,birds,reptiles,I,NULL
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: PennElementType.
+#     Col. 9: PennElementName.
+#     Col. 10: Parameter.
+#     Col. 11: Value.
+#     Col. 12: EventTime.
+#     Col. 13: ID.
+#     Col. 14: Study.
+#     Col. 15: SentNumber.
+#     Col. 16: Quantifier.
+#     Col. 17: Matrix.
+#     Col. 18: WhichCategory.
+#     Col. 19: Subject.
+#     Col. 20: Predicate.
+#     Col. 21: SentType.
+#     Col. 22: Verb.
+#     Col. 23: Embedded.
+#     Col. 24: Token.
+#     Col. 25: MatchingCategory.
+#     Col. 26: MismatchingCategory.
+#     Col. 27: Group.
+#     Col. 28: Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,DashedSentence,34,0,test,NULL,Zoologists say that all horses are mammals
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,34,1,test,NULL,PennController,35,_Trial_,Start,1588949790032,19837,BN,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,horses,mammals,fruit,I,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Study.
+# 15. SentNumber.
+# 16. Quantifier.
+# 17. Matrix.
+# 18. WhichCategory.
+# 19. Subject.
+# 20. Predicate.
+# 21. SentType.
+# 22. Verb.
+# 23. Embedded.
+# 24. Token.
+# 25. MatchingCategory.
+# 26. MismatchingCategory.
+# 27. Group.
+# 28. Comments.
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,34,1,test,NULL,Selector,unnamed-Selector,Selection,Agree,1588949790090,19837,BN,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,horses,mammals,fruit,I,NULL
+1588949806,b74dfa5104b777a8ff0851529f0a03d2,PennController,34,1,test,NULL,PennController,35,_Trial_,End,1588949790091,19837,BN,12,all,Zoologists say that,Matching,Token,Category,T4,say,1,horses,mammals,fruit,I,NULL

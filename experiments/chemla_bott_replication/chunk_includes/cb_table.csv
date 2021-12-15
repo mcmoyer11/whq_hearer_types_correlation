@@ -1,0 +1,163 @@
+,Study,SentNumber,Verb,WhichCategory,Matrix,Subject,Predicate,SentType,Negation,CompTruth,SubStat,Token,MatchingCategory,MismatchingCategory,Group
+0,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,salmon,fishes,birds,A
+1,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,bears,mammals,fruit,A
+2,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,tunas,fishes,birds,B
+3,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,monkeys,mammals,fruit,B
+4,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,trouts,fishes,birds,C
+5,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,cows,mammals,fruit,C
+6,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,cobras,reptiles,mammals,D
+7,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,ticks,insects,fishes,D
+8,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,tortoises,reptiles,mammals,E
+9,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,beetles,insects,fishes,E
+10,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,pythons,reptiles,mammals,F
+11,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,bees,insects,fishes,F
+12,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,parrots,birds,reptiles,G
+13,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,watermellon,fruits,insects,G
+14,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,pigeons,birds,reptiles,H
+15,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,kiwis,fruits,insects,H
+16,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,vultures,birds,reptiles,I
+17,CB,1,know,Matching,Zoologists know that,Token,Category,T4,0,1,expert,oranges,fruits,insects,I
+18,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,tunas,fishes,birds,A
+19,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,monkeys,mammals,fruit,A
+20,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,trouts,fishes,birds,B
+21,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,cows,mammals,fruit,B
+22,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,cobras,reptiles,mammals,C
+23,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,ticks,insects,fishes,C
+24,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,tortoises,reptiles,mammals,D
+25,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,beetles,insects,fishes,D
+26,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,pythons,reptiles,mammals,E
+27,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,bees,insects,fishes,E
+28,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,parrots,birds,reptiles,F
+29,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,watermellon,fruits,insects,F
+30,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,pigeons,birds,reptiles,G
+31,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,kiwis,fruits,insects,G
+32,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,vultures,birds,reptiles,H
+33,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,oranges,fruits,insects,H
+34,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,salmon,fishes,birds,I
+35,CB,2,know,Mismatching,Zoologists know that,Token,Category,T2,0,0,expert,bears,mammals,fruit,I
+36,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,trouts,fishes,birds,A
+37,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,cows,mammals,fruit,A
+38,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,cobras,reptiles,mammals,B
+39,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,ticks,insects,fishes,B
+40,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,tortoises,reptiles,mammals,C
+41,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,beetles,insects,fishes,C
+42,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,pythons,reptiles,mammals,D
+43,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,bees,insects,fishes,D
+44,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,parrots,birds,reptiles,E
+45,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,watermellon,fruits,insects,E
+46,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,pigeons,birds,reptiles,F
+47,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,kiwis,fruits,insects,F
+48,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,vultures,birds,reptiles,G
+49,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,oranges,fruits,insects,G
+50,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,salmon,fishes,birds,H
+51,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,bears,mammals,fruit,H
+52,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,tunas,fishes,birds,I
+53,CB,3,know,Matching,Zoologists don't know that,Token,Category,T3,1,1,expert,monkeys,mammals,fruit,I
+54,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,cobras,reptiles,mammals,A
+55,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,ticks,insects,fishes,A
+56,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,tortoises,reptiles,mammals,B
+57,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,beetles,insects,fishes,B
+58,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,pythons,reptiles,mammals,C
+59,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,bees,insects,fishes,C
+60,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,parrots,birds,reptiles,D
+61,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,watermellon,fruits,insects,D
+62,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,pigeons,birds,reptiles,E
+63,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,kiwis,fruits,insects,E
+64,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,vultures,birds,reptiles,F
+65,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,oranges,fruits,insects,F
+66,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,salmon,fishes,birds,G
+67,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,bears,mammals,fruit,G
+68,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,tunas,fishes,birds,H
+69,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,monkeys,mammals,fruit,H
+70,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,trouts,fishes,birds,I
+71,CB,4,know,Mismatching,Zoologists don't know that,Token,Category,T1,1,0,expert,cows,mammals,fruit,I
+72,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,tortoises,reptiles,mammals,A
+73,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,beetles,insects,fishes,A
+74,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,pythons,reptiles,mammals,B
+75,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,bees,insects,fishes,B
+76,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,parrots,birds,reptiles,C
+77,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,watermellon,fruits,insects,C
+78,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,pigeons,birds,reptiles,D
+79,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,kiwis,fruits,insects,D
+80,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,vultures,birds,reptiles,E
+81,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,oranges,fruits,insects,E
+82,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,salmon,fishes,birds,F
+83,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,bears,mammals,fruit,F
+84,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,tunas,fishes,birds,G
+85,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,monkeys,mammals,fruit,G
+86,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,trouts,fishes,birds,H
+87,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,cows,mammals,fruit,H
+88,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,cobras,reptiles,mammals,I
+89,CB,5,know,Matching,Babies don't know that,Token,Category,T6,1,1,novice,ticks,insects,fishes,I
+90,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,pythons,reptiles,mammals,A
+91,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,bees,insects,fishes,A
+92,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,parrots,birds,reptiles,B
+93,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,watermellon,fruits,insects,B
+94,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,pigeons,birds,reptiles,C
+95,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,kiwis,fruits,insects,C
+96,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,vultures,birds,reptiles,D
+97,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,oranges,fruits,insects,D
+98,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,salmon,fishes,birds,E
+99,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,bears,mammals,fruit,E
+100,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,tunas,fishes,birds,F
+101,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,monkeys,mammals,fruit,F
+102,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,trouts,fishes,birds,G
+103,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,cows,mammals,fruit,G
+104,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,cobras,reptiles,mammals,H
+105,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,ticks,insects,fishes,H
+106,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,tortoises,reptiles,mammals,I
+107,CB,6,know,Mismatching,Babies don't know that,Token,Category,T5,1,0,novice,beetles,insects,fishes,I
+108,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,parrots,birds,reptiles,A
+109,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,watermellon,fruits,insects,A
+110,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,pigeons,birds,reptiles,B
+111,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,kiwis,fruits,insects,B
+112,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,vultures,birds,reptiles,C
+113,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,oranges,fruits,insects,C
+114,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,salmon,fishes,birds,D
+115,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,bears,mammals,fruit,D
+116,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,tunas,fishes,birds,E
+117,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,monkeys,mammals,fruit,E
+118,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,trouts,fishes,birds,F
+119,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,cows,mammals,fruit,F
+120,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,cobras,reptiles,mammals,G
+121,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,ticks,insects,fishes,G
+122,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,tortoises,reptiles,mammals,H
+123,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,beetles,insects,fishes,H
+124,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,pythons,reptiles,mammals,I
+125,CB,7,say,Mismatching,Zoologists don't say that,Token,Category,T7,1,0,expert,bees,insects,fishes,I
+126,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,pigeons,birds,reptiles,A
+127,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,kiwis,fruits,insects,A
+128,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,vultures,birds,reptiles,B
+129,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,oranges,fruits,insects,B
+130,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,salmon,fishes,birds,C
+131,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,bears,mammals,fruit,C
+132,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,tunas,fishes,birds,D
+133,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,monkeys,mammals,fruit,D
+134,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,trouts,fishes,birds,E
+135,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,cows,mammals,fruit,E
+136,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,cobras,reptiles,mammals,F
+137,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,ticks,insects,fishes,F
+138,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,tortoises,reptiles,mammals,G
+139,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,beetles,insects,fishes,G
+140,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,pythons,reptiles,mammals,H
+141,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,bees,insects,fishes,H
+142,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,parrots,birds,reptiles,I
+143,CB,8,say,Mismatching,Babies say that,Token,Category,T8,0,0,novice,watermellon,fruits,insects,I
+144,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,vultures,birds,reptiles,A
+145,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,oranges,fruits,insects,A
+146,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,salmon,fishes,birds,B
+147,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,bears,mammals,fruit,B
+148,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,tunas,fishes,birds,C
+149,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,monkeys,mammals,fruit,C
+150,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,trouts,fishes,birds,D
+151,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,cows,mammals,fruit,D
+152,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,cobras,reptiles,mammals,E
+153,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,ticks,insects,fishes,E
+154,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,tortoises,reptiles,mammals,F
+155,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,beetles,insects,fishes,F
+156,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,pythons,reptiles,mammals,G
+157,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,bees,insects,fishes,G
+158,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,parrots,birds,reptiles,H
+159,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,watermellon,fruits,insects,H
+160,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,pigeons,birds,reptiles,I
+161,CB,9,say,Matching,Babies say that,Token,Category,T9,0,1,novice,kiwis,fruits,insects,I

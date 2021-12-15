@@ -1,0 +1,17 @@
+﻿QuestType,WhichQuestion,WhichAnswer,verb,Matrix
+1,ModQuest,MO,know,Irene knows
+2,ModQuest,MS,know,Irene knows
+3,ModQuest,MA,know,Irene knows
+4,ModQuest,MF,know,Irene knows
+5,ModQuest,MO,say,Irene said
+6,ModQuest,MS,say,Irene said
+7,ModQuest,MA,say,Irene said
+8,ModQuest,MF,say,Irene said
+9,NoModQuest,MO,know,Irene knows
+10,NoModQuest,MS,know,Irene knows
+11,NoModQuest,MA,know,Irene knows
+12,NoModQuest,MF,know,Irene knows
+13,NoModQuest,MO,say,Irene said
+14,NoModQuest,MS,say,Irene said
+15,NoModQuest,MA,say,Irene said
+16,NoModQuest,MF,say,Irene said
